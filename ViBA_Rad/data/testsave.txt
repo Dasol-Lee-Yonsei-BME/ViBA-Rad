@@ -1,0 +1,46 @@
+Solar spectrum: AM1.5 Direct
+File name (solar): C:/Users/Minkyung Kim/Downloads/AT.txt
+Unit (solar): nm
+Spectrum type: T/R/A
+File name (spec): G:/내 드라이브/Cooling/data/solar_TRA (visibly transparent cooler).txt
+Unit (spec): m
+Light source: -Source-
+Atmospheric transmittance: AM1.5 PW 1mm
+File name (AT): 
+Unit (AT): um
+MIR incidence type: Angled incidence
+File name (MIR): G:/내 드라이브/Cooling/data/MIR_A_angled (visibly transparent cooler).txt
+Unit (MIR): m
+Incident angle: [0.0, 10.0, 20.0, 30.0, 40.0, 50.0, 60.0, 70.0, 80.0]
+MIR checkbox 1: True
+MIR checkbox 2: True
+MIR checkbox 3: False
+Temperature start: 300
+Temperature stop: 360
+Temperature step: 10
+Ambient temperature: 303
+hcc: 8
+Pcool: False
+Prad: True
+Patm: True
+Psun: True
+Pcc: True
+Time start: 
+Time stop: 
+Time step: 
+C: 
+Outdoor weather: -Outdoor weather-
+Month: 7
+Date: 15
+File name (outdoor): 
+Unit (temperature, outdoor): 
+Unit (solar, outdoor): 
+Initial temperature: -Initial temperature-
+Input temperature: 0
+Target temperature: -Target temperature-
+Input temperature: 
+File name (global): 
+Unit (temperature, global): 
+Unit (solar, global): 
+Target temperature (global): -RC temperature-
+Input temperature (global): 
