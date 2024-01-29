@@ -40,7 +40,9 @@ For comprehensive instructions on how to use ViBA Rad, please refer to the user 
 - 29th Jan 2024
 1. We have fixed the error in the user import of weather data in step 4. Previously, there was an error causing the temperature to be 273 degrees higher than the input value.
 2. In the user guide,
+
 Before) This represents the heat capacitance of the RC.
+
 After) This represents the heat capacitance per unit area of the RC.
   
 
